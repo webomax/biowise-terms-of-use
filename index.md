@@ -1,4 +1,3 @@
-# Terms of Use
 
 **Effective Date:** March 2, 2026
 
