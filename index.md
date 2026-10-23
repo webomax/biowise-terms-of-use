@@ -1,5 +1,5 @@
 
-**Effective Date:** March 2, 2026
+**Effective Date:** October 24, 2026
 
 ## 1. Acceptance of Terms
 
@@ -11,10 +11,10 @@ By downloading, accessing, or using the BioWise mobile application (the "App"), 
 
 ## 3. Use of AI and Third-Party Technologies
 
-BioWise utilizes advanced artificial intelligence, including third-party services like Google AI, to power features such as photo-based food logging and text generation.
+BioWise utilizes artificial intelligence from third-party services, primarily Google Gemini and, when Gemini is unavailable, AI models available through OpenRouter, to power features such as photo-based food logging and personalized daily insights. AI features are used only after you give permission in the App, and you can turn them off at any time in Profile. How your data is handled is described in our [Privacy Policy](https://webomax.github.io/biowise-privacy-policy/).
 
-- **Accuracy:** While we strive for high accuracy, AI-generated nutritional estimates, biological insights, and portion sizes are approximations and may occasionally be inaccurate or incomplete. You should verify critical dietary information independently.
-- **Fair Use:** Premium AI features are subject to a fair use policy to prevent abuse of our API limits. We reserve the right to temporarily suspend or limit your access to AI features if your usage severely exceeds typical personal use patterns.
+- **Accuracy:** While we strive for high accuracy, AI-generated nutritional estimates, biological insights, and portion sizes are approximations and may occasionally be inaccurate or incomplete. They are not medical advice. You should verify critical dietary information independently.
+- **Usage Limits:** Free users can try one AI photo scan. Premium AI features are subject to daily limits and a fair use policy to protect the service from abuse. We reserve the right to temporarily suspend or limit your access to AI features if your usage severely exceeds typical personal use patterns or if an AI provider is unavailable.
 
 ## 4. Subscriptions and Billing
 
